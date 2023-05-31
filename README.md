@@ -1,1 +1,1 @@
-My fisrt readme
+New directory 0x01-git readme
